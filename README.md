@@ -14,9 +14,9 @@ Chicago, New York City, and Washington, DC.
 
 ### Files used
 The required files for the project are: 
-new_york_city.csv
-chicago.csv
-washington.csv
+- new_york_city.csv
+- chicago.csv
+- washington.csv
 
 
 ### Credits
