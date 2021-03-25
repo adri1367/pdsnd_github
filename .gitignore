@@ -1,2 +1,2 @@
 # Ignore all csv files
-washington.csv
+*.csv
