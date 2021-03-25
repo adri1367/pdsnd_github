@@ -1,5 +1,5 @@
 # US BIKE SHARE PROJECT - UDACITY NANODEGREE 
-## Programming Programming for Data Science with Python Nanodegree Program
+## Programming for Data Science with Python Nanodegree Program
 
 ### Date created
 February 2021
