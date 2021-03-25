@@ -335,7 +335,9 @@ def main():
             restart=input('Please check yout spelling, Would you like to restart? Enter yes or no \n').lower()
             
         if restart.lower() != 'yes':
-            print('\n Thanks for accesing the bikeshre US data system. Have a nice day!')
+            print('\n Thanks for accesing the bikeshre US data system. \
+             \n For more info vist us on www.motivateco.com \
+            \n Have a nice day!')
             break
 
 if __name__ == "__main__":
