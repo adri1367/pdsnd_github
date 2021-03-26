@@ -119,7 +119,16 @@ def load_data(city, month, day):
 
 
 def display_raw_data(df,city,month,day):
-    """ Displaying raw data from the selected city-month-day combination selected by user """
+    """
+    Displaying raw data from the selected city-month-day combination selected by user 
+    Args:
+        (DataFrame) df - Pandas DataFrame containing city data filtered by month and day
+        (str) month - name of the month to filter by, or "No" to apply no month filter
+        (str) day - name of the day of week to filter by, No "all" to apply no day filter
+        (str) city - name of the city to filter
+    Returns:
+        Nothing - Just prints raw data
+    """
     i = 0
     max_rows=len(df)+1 #thiis is used to control the printing on raw data, in case user keep saying yes!
     
