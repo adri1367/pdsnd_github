@@ -297,7 +297,7 @@ def user_stats(df):
         recent_year=df['Birth Year'].max()
         mode_year=df['Birth Year'].mode()[0]
 
-        message_birth='\n Oldest customer born was born in: {} (aprox. age {} years)\
+        message_birth='\n Oldest customer was born in: {} (aprox. age {} years)\
         \n Youngest customer was born in: {}  (aprox. age {} years ) \
         \n Most of our customers were born in: {} (aprox. age {} years)'
 
